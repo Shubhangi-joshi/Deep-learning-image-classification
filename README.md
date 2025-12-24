@@ -10,13 +10,13 @@ This repository demonstrates practical skills in:
 -Image preprocessing
 -Model training with TensorFlow/Keras
 
-🗂️ Dataset
+🗂️ Dataset:
 -The dataset consists of images organized into two classes(Cat and Dog)
 -Images are loaded from directory structure using ImageDataGenerator
 -Each image is resized to 64 × 64 pixels
 -Color mode: RGB
 
-🚀 Technologies Used
+🚀 Technologies Used:
 -Python
 -TensorFlow
 -Keras
@@ -24,12 +24,12 @@ This repository demonstrates practical skills in:
 -Deep Learning
 -Computer Vision
 
-📊 Training Details
+📊 Training Details:
 -Loss Function: Binary Crossentropy
 -Optimizer: Adam
 -Activation Functions: ReLU, Sigmoid
 
-▶️ How to Run the Project
+▶️ How to Run the Project:
 
 1) Clone the repository
 git clone https://github.com/your-username/deep-learning-image-classification.git
